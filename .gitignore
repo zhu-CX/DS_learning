@@ -1,0 +1,5 @@
+#忽略可执行文件
+output/
+#忽略配置文件
+.vscode/
+Makefile
